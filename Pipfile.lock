@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a0918892523679d70fb191b38f5fccc90cb6eb785140a28e84e27890431d1271"
+            "sha256": "9c1c0a74a90db751c8ede5e1493c80810e5559786a266e4882f5a38b59f788cd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -295,6 +295,13 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==3.0.6"
+        },
+        "wget": {
+            "hashes": [
+                "sha256:35e630eca2aa50ce998b9b1a127bb26b30dfee573702782aa982f875e3f16061"
+            ],
+            "index": "pypi",
+            "version": "==3.2"
         }
     },
     "develop": {}
